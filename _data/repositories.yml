@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - alinot5
+  # - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - alinot5/PyChannel
+  - alinot5/KSNN
+  - alinot5/DManDCouette
+  - alinot5/KSE_ROM_NODE

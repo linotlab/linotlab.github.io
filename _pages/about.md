@@ -1,20 +1,20 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.umass.edu/engineering/chemical-engineering'>Department of Chemical Engineering</a>. 112F Goessmann Laboratory, 686 N Pleasant St, Amherst, MA 01002. alinot@umass.edu
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+# profile:
+#   align: right
+#   image: prof_pic.jpg
+#   image_circular: false # crops the image to make it circular
+#   more_info: >
+#     <p>555 your office number</p>
+#     <p>123 your address street</p>
+#     <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -22,13 +22,24 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/misc/Goessmann.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The group is located in Goessmann Hall.
+</div>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<p style="text-align: justify;">
+Our group develops numerical tools to model, control, and analyze fluids and chaotic dynamical systems. Studying fluids plays an important role in understanding physics across many scales, such as collective motion in bacteria colonies, the drag caused by turbulence over a plane wing, and the large-scale weather patterns present in the Earth's atmosphere. These are all complex, time-varying systems that are highly sensitive to the initial state of the system -- a hallmark of chaos. We study these systems in computational simulations, which allows us to probe physics that are often difficult, or impossible, to access through experiments alone. 
+</p>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p style="text-align: justify;">
+Unfortunately, classical computational methods often remain too expensive for forecasting and controlling highly chaotic flows. Thus, a major thrust of our work is to develop machine learning methods for these tasks. We leverage concepts from chaos theory and dynamical systems theory to develop machine learning methods tailored to our problems of interest. This includes considering concepts such as sensitivity to initial conditions, invariant attractive manifolds, exact coherent states, system symmetries, and more. Despite more than a century of research into turbulent flows, it still presents major challenges we hope to address using machine learning.
+</p>
