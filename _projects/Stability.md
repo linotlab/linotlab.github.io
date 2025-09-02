@@ -3,7 +3,7 @@ layout: page
 title: Stability analysis
 description: Finding growth mechanisms in unsteady flows.
 img: /assets/img/research/StabilitySq.png
-importance: 1
+importance: 3
 category: current
 related_publications: true
 ---

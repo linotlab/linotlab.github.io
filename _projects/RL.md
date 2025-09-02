@@ -3,7 +3,7 @@ layout: page
 title: Control of Chaos
 description: Reinforcement learning, model predictive control, and more.
 img: /assets/img/research/RLSq.png
-importance: 1
+importance: 2
 category: current
 related_publications: true
 ---
