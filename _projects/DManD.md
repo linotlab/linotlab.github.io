@@ -2,7 +2,7 @@
 layout: page
 title: Low-dimensional modeling
 description: Machine learning to parameterize manifolds.
-img: /assets/img/research/DMandSq.png
+img: /assets/img/research/DMandSq2.png
 importance: 1
 category: current
 related_publications: true
