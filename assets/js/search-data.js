@@ -465,8 +465,8 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CollectiveMotion/";
-            },},{id: "projects-low-dimensional-modeling",
-          title: 'Low-dimensional modeling',
+            },},{id: "projects-low-order-modeling",
+          title: 'Low-order modeling',
           description: "Machine learning to parameterize manifolds.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/DManD/";
