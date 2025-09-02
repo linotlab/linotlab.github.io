@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Low-dimensional modeling
+title: Low-order modeling
 description: Machine learning to parameterize manifolds.
 img: /assets/img/research/DManDSq2.png
 importance: 1
