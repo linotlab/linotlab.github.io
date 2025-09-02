@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: linotlab.github.io/al-folio/sitemap.xml
+Sitemap: linotlab.github.io/sitemap.xml
