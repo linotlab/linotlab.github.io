@@ -412,8 +412,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-am-excited-to-be-starting-my-lab-and-i-am-looking-to-recruit-students-to-join-the-lab-please-reach-out-to-me-if-you-are-interested",
-          title: 'I am excited to be starting my lab, and I am looking to...',
+            },},{id: "news-i-am-excited-to-start-my-lab-and-i-am-looking-to-recruit-ph-d-masters-and-undergraduate-students-to-join-please-reach-out-to-me-if-you-are-interested",
+          title: 'I am excited to start my lab, and I am looking to recruit...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
