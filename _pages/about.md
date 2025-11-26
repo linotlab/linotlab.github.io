@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.umass.edu/engineering/chemical-engineering'>Department of Chemical Engineering</a>. 112F Goessmann Laboratory, 686 N Pleasant St, Amherst, MA 01002. alinot@umass.edu
+subtitle: <a href='https://www.umass.edu/engineering/chemical-engineering'>Department of Chemical Engineering</a>. 112F Goessmann Laboratory, 686 N Pleasant St, Amherst, MA 01003. alinot@umass.edu
 
 # profile:
 #   align: right
