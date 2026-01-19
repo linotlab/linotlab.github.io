@@ -48,3 +48,46 @@ nav_order: 2
   </article>
 </div>
 
+## Undergraduate Students
+---
+
+<div class="row">
+  <div class="col-sm-4">
+    <div class="square-wrap">
+    <img src="/assets/img/people/Aryaman.jpg" class="img-fluid z-depth-1 rounded square-img" alt="">
+    </div>
+    <p style="font-size: 18px; font-weight: bold;"> Aryaman Tepal </p> 
+  </div>
+  <div class="col-sm-4">
+    <img src="/assets/img/misc/UMassSeal.png" class="img-fluid z-depth-1 rounded square-img" alt="">
+    <p style="font-size: 18px; font-weight: bold;"> Varun Kini </p> 
+  </div>
+  <div class="col-sm-4">
+    <img src="/assets/img/misc/UMassSeal.png" class="img-fluid z-depth-1 rounded square-img" alt="">
+    <p style="font-size: 18px; font-weight: bold;"> Rida Ilahi </p> 
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-4">
+    <img src="/assets/img/misc/UMassSeal.png" class="img-fluid z-depth-1 rounded square-img" alt="">
+    <p style="font-size: 18px; font-weight: bold;"> Eli Ruminer </p> 
+  </div>
+  <div class="col-sm-4">
+    <img src="/assets/img/misc/UMassSeal.png" class="img-fluid z-depth-1 rounded square-img" alt="">
+    <p style="font-size: 18px; font-weight: bold;"> Sergio Munoz Albors </p> 
+  </div>
+  <div class="col-sm-4">
+    <img src="/assets/img/misc/UMassSeal.png" class="img-fluid z-depth-1 rounded square-img" alt="">
+    <p style="font-size: 18px; font-weight: bold;"> Neal Patel </p> 
+  </div>
+</div>
+
+<style>
+.square-img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+}
+</style>
