@@ -1,7 +1,7 @@
 <!-- <p style="font-size: 26px; color: blue; font-weight: bold; text-decoration: underline;"> Alec Linot </p> -->
 <p style="font-size: 24px; color: #993333; font-weight: bold;"> Shivam Niphade </p> 
 
-PhD Student, Chemical and Biomolecular Engineering, Umass-Amherst, 2025 - Present 
+PhD Student, UMass-Amherst, Chemical and Biomolecular Engineering, 2025 - Present 
 
 B.Chem., Institute of Chemical Technology, Mumbai, 2025 <br>
 

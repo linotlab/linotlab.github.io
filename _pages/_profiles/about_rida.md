@@ -1,6 +1,6 @@
 <p style="font-size: 24px; color: #993333; font-weight: bold;"> Rida Ilahi </p>
 
-M.S. Student, Chemical and Biomolecular Engineering, UMass-Amherst, 2026 - Present
+M.S. Student, UMass-Amherst, Chemical and Biomolecular Engineering, 2026 - Present
 
 B.S., Mount Holyoke College, Department of Physics and Astronomy, 2026 <br>
 

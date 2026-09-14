@@ -1,6 +1,6 @@
 <p style="font-size: 24px; color: #993333; font-weight: bold;"> Yawei Gao </p>
 
-Postdoctoral Researcher, Chemical and Biomolecular Engineering, UMass-Amherst, 2026 - Present
+Postdoctoral Researcher, UMass-Amherst, Chemical and Biomolecular Engineering, 2026 - Present
 
 Post. Doc., Oak Ridge National Laboratory, 2026 <br>
 Ph.D., Penn State University, Mechanical Engineering, 2022 <br>
