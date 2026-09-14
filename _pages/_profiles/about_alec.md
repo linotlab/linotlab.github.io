@@ -1,7 +1,7 @@
 <!-- <p style="font-size: 26px; color: blue; font-weight: bold; text-decoration: underline;"> Alec Linot </p> -->
 <p style="font-size: 24px; color: #993333; font-weight: bold;"> Alec Linot </p> 
 
-Assistant Professor, Chemical Engineering, UMass-Amherst, 2025 – Present
+Assistant Professor, Chemical and Biomolecular Engineering, UMass-Amherst, 2025 – Present
 
 Postdoc, UCLA, Mechanical and Aerospace Engineering, 2025 <br>
 Ph.D., University of Wisconsin - Madison, Chemical and Biological Engineering, 2023 <br>
