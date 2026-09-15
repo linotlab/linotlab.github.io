@@ -8,5 +8,5 @@ M.S. University of Stuttgart, Vehicle and Engine Engineering, 2017 <br>
 B.Eng., Tongji University, Vehicle Engineering, 2013 <br>
 
 <p style="text-align: justify;">
-In progress.
+I am Yawei Gao, a researcher specializing in multiscale modeling - spanning nanoscale quantum mechanics and all-atom molecular dynamics, mesoscale coarse-grained MD and phase-field methods, and continuum-scale computational fluid dynamics. I apply this unified modeling framework to advance modern materials manufacturing. By integrating deep learning alongside traditional physics-based approaches, I aim to uncover complex cross-scale relationships that remain inaccessible through physics-based methods alone.
 </p>
