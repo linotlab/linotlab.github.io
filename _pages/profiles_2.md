@@ -21,7 +21,7 @@ nav_order: 2
             <div class="more-info">alinot[at]umass.edu<br>Goessmann Laboratory 112F<br><a href="https://scholar.google.com/citations?user=Mw3YwtAAAAAJ&hl=en">Google Scholar</a></div>
         </div>
 
-        <div class="clearfix">
+        <div class="clearfix profile-text">
             {% capture profile_content %}{% include_relative _profiles/about_alec.md %}{% endcapture %}
             {{ profile_content | markdownify }}
         </div>
@@ -41,7 +41,7 @@ nav_order: 2
             <div class="more-info">yaweigao[at]umass.edu<br>Goessmann Laboratory 213</div>
         </div>
 
-        <div class="clearfix">
+        <div class="clearfix profile-text">
             {% capture profile_content %}{% include_relative _profiles/about_yawei.md %}{% endcapture %}
             {{ profile_content | markdownify }}
         </div>
@@ -61,7 +61,7 @@ nav_order: 2
             <div class="more-info">sniphade[at]umass.edu<br>Goessmann Laboratory 213<br><a href="https://www.linkedin.com/in/shivam-niphade">LinkedIn</a></div>
         </div>
 
-        <div class="clearfix">
+        <div class="clearfix profile-text">
             {% capture profile_content %}{% include_relative _profiles/about_shivam.md %}{% endcapture %}
             {{ profile_content | markdownify }}
         </div>
@@ -79,7 +79,7 @@ nav_order: 2
             <div class="more-info">rilahi[at]umass.edu<br>Goessmann Laboratory 213</div>
         </div>
 
-        <div class="clearfix">
+        <div class="clearfix profile-text">
             {% capture profile_content %}{% include_relative _profiles/about_rida.md %}{% endcapture %}
             {{ profile_content | markdownify }}
         </div>
@@ -116,5 +116,16 @@ nav_order: 2
 /* Per-person vertical crop nudges. Higher % moves the face up in the frame. */
 .square-yawei {
   object-position: center 35%;
+}
+
+/* Keep bio text in its own column beside the photo instead of wrapping
+   underneath it once the text runs past the bottom of the image.
+   flow-root gives the text its own block formatting context, which by
+   definition does not overlap a float. Only above the theme's 576px
+   breakpoint -- below that .profile is full width and stacking is correct. */
+@media (min-width: 576px) {
+  .profile-text {
+    display: flow-root;
+  }
 }
 </style>
